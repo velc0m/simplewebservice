@@ -11,10 +11,10 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @SpringBootApplication
-public class SimplewebserviceApplication {
+public class SimpleWebServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SimplewebserviceApplication.class, args);
+        SpringApplication.run(SimpleWebServiceApplication.class, args);
     }
 }
 
